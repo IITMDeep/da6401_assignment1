@@ -4,11 +4,10 @@
 
 ## Dipanshu's DA6401 - Assignment 1
 
-- WanDB Link: https://wandb.ai/cs24m019-iitm/DL-Assignment-1-v3/reports/Dipanshu-s-DA6401-Assignment-1--VmlldzoxMTgzNTk0Nw?accessToken=qsvu7c3llcd2om0ve2kdtcmaqaqycp2d2qd24rwl26n5ehnkcyssxb5id0qrb99m
-- GitHub Link: https://github.com/IITMDeep/da6401_assignment1
-
 This repository contains a Python script that trains a Feed Forward Neural Network using NumPy. The neural network is flexible and can be adjusted to work with various configurations. It's great for classifying datasets like MNIST or Fashion MNIST. You can easily customize it by adding different activation functions, loss functions, and other parameters as needed.
 
+WanDB Link- 'https://wandb.ai/cs24m019-iitm/DL-Assignment-1-v3/reports/Dipanshu-s-DA6401-Assignment-1--VmlldzoxMTgzNTk0Nw?accessToken=qsvu7c3llcd2om0ve2kdtcmaqaqycp2d2qd24rwl26n5ehnkcyssxb5id0qrb99m'
+GitHub Link- 'https://github.com/IITMDeep/da6401_assignment1'
 ---
 
 # Code-Structure
