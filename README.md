@@ -9,6 +9,7 @@ This repository contains a Python script that trains a Feed Forward Neural Netwo
 WanDB Link- 'https://wandb.ai/cs24m019-iitm/DL-Assignment-1-v3/reports/Dipanshu-s-DA6401-Assignment-1--VmlldzoxMTgzNTk0Nw?accessToken=qsvu7c3llcd2om0ve2kdtcmaqaqycp2d2qd24rwl26n5ehnkcyssxb5id0qrb99m'
 
 GitHub Link- 'https://github.com/IITMDeep/da6401_assignment1'
+
 ---
 
 # Code-Structure
